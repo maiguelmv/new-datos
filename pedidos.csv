@@ -1,0 +1,2 @@
+id_pedido,id_cliente,producto,precio,cantidad,activo
+1,2,Blush,89000,3,1

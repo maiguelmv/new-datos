@@ -1,0 +1,4 @@
+id_cliente,nombre,apellido,telefono,activo
+1,Manuela,Maiguel,3024455253,0
+2,Fabian ,Velilla,256384993,0
+3,get init,,,1
